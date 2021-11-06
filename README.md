@@ -29,7 +29,7 @@ And see more projects on this GitHub profile!
 <br>
 - 💼 any work? do reach, <a href="mailto:avirajarora1@gmail.com">email</a> :)
 <br>
-- 💬 ask me about anything, i am happy to help.
+- 💬 ask me about anything, i'll be happy to help.
 
 <br><br>
 
