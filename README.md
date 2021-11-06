@@ -31,6 +31,6 @@ And see more projects on this GitHub profile!
 <br>
 - 💬 ask me about anything, i am happy to help.
 
-<br><br>
+<br>
 
 If you like what i do, maybe consider buying me a coffee.
