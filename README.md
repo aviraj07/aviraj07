@@ -27,7 +27,7 @@ And see more projects on this GitHub profile!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br>
-- 💼 any freelance work? do reach, <a href="mailto:avirajarora1@gmail.com">email</a> :)
+- 💼 any work? do reach, <a href="mailto:avirajarora1@gmail.com">email</a> :)
 <br>
 - 💬 ask me about anything, i am happy to help.
 
