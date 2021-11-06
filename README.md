@@ -28,7 +28,6 @@ And see more projects on this GitHub profile!
 
 <br><br>
 - 💼 any freelance work? do reach, <a href="mailto:avirajarora1@gmail.com">email</a> :)
-<br>
 - 💬 ask me about anything, i am happy to help.
 
 If you like what i do, maybe consider buying me a coffee.
