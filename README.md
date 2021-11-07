@@ -30,6 +30,8 @@ And see more projects on this GitHub profile!
 - 💼 any work? do reach, <a href="mailto:avirajarora1@gmail.com">email</a> :)
 <br>
 - 💬 ask me about anything, i'll be happy to help.
+<br>
+- 🔭 I’m currently working on **CS50 Web**.
 
 <br><br>
 
