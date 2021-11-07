@@ -31,7 +31,7 @@ And see more projects on this GitHub profile!
 <br>
 - 💬 ask me about anything, i'll be happy to help.
 <br>
-- 🔭 I’m currently working on **CS50 Web.**
+- 🔭 I’m currently working on <b>CS50 Web</b>.
 
 <br><br>
 
