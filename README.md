@@ -29,5 +29,4 @@ And see more projects on this GitHub profile!
 - 🔭 I’m currently working on <b>CS50 Web</b>.
 
 <br><br>
-
 If you like what i do, maybe consider buying me a coffee.
