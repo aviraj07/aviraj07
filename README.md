@@ -11,9 +11,9 @@ I'm Aviraj, a bachelor's student and a computer science enthusiast. My passion f
 
 ## My Projects
 
-* [Dear-Diary](https://youtu.be/i9e0uKmePPk), a digital diary where you can keep all your secrets.
-* [GoogleBawa](https://youtu.be/kUq4isHAm6s), a front-end clone of google search engine that includes google search, image search, and advance search.
-* [Wikipedia](https://youtu.be/lqzdZqQcnf8), a wikipedia like web app.
+* [Chat50](https://aviraj-chat50.herokuapp.com), a place where people can make groups and chat.
+* [Network](https://avigram.herokuapp.com/), a twitter like webapp where people can post stuffs, like, follow/unfollow each other.
+* [Mail](https://avimail.herokuapp.com), a gmail like webapp where people can send emails and reply to them.
 
 And see more projects on this GitHub profile!
 
@@ -25,8 +25,4 @@ And see more projects on this GitHub profile!
 - 💼 any work? do reach, <a href="mailto:avirajarora1@gmail.com">email</a> :)
 <br>
 - 💬 ask me about anything, i'll be happy to help.
-<br>
-- 🔭 I’m currently working on <b>CS50 Web</b>.
 
-<br><br>
-If you like what i do, maybe consider buying me a coffee.
