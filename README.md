@@ -8,7 +8,7 @@
 </a>
 <br><br>
 I'm Aviraj, a bachelor's student and a computer science enthusiast. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
- [My portfolio website](https://aviraj-arora.herokuapp.com/)
+ <br> [My portfolio website](https://aviraj-arora.herokuapp.com/)
 
 ## My Projects
 
